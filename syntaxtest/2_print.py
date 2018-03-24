@@ -5,3 +5,4 @@
 print("Hello, World")
 print("Hi_1", end="")
 print("Hi_2", end=",")
+print("您好")
